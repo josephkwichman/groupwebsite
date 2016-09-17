@@ -32,3 +32,5 @@ Grunt
 
 BJ Burns (Full Stack) Project Manager
 Will Gant (Full Stack) Project Manager
+
+Joseph Wichman TDOT Developer, Jr.
